@@ -9,6 +9,7 @@ This repository showcases my journey in Machine Learning through various project
 ## 📊 Projects Included
 - **00 - Learning ML**: This folder contains the basic notebooks I prepared while learning ML.
 - **01 - CO2 Emission Project**: This project analyzes vehicle specifications and fuel consumption data to predict CO2 emissions using exploratory data analysis (EDA), simple linear regression, and multiple linear regression techniques.
+- **02 - Auto Scout Project**: This project focuses on predicting car prices using regression techniques such as Linear, Ridge, Lasso, and ElasticNet to analyze data effectively.
 
 ## 🗂️ Structure
 
