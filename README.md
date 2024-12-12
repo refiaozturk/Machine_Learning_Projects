@@ -13,6 +13,8 @@ This repository showcases my journey in Machine Learning through various project
 
 **🚗 02 - Auto Scout Project**: This project focuses on predicting car prices using regression techniques such as Linear, Ridge, Lasso, and ElasticNet to analyze data effectively.
 
+**🍇 03 - Raisin Classification Project**: This project focuses on classifying raisin types (Kecimen and Besni) using machine learning techniques. It explores classification models, feature scaling, and evaluation metrics to analyze and distinguish the two classes effectively.
+
 ## 🗂️ Structure
 
 1. **Data Preparation and EDA**🧹📂:  
