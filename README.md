@@ -15,6 +15,8 @@ This repository showcases my journey in Machine Learning through various project
 
 **🍇 03 - Raisin Classification Project**: This project focuses on classifying raisin types (Kecimen and Besni) using machine learning techniques. It explores classification models, feature scaling, and evaluation metrics to analyze and distinguish the two classes effectively.
 
+**💸 04 - Income Prediction Project**: This project focuses on predicting income levels (≤50K or >50K) using classification techniques such as Logistic Regression, K-Nearest Neighbors (KNN), and Support Vector Machines (SVM) to tackle imbalanced data and analyze features effectively.
+
 ## 🗂️ Structure
 
 1. **Data Preparation and EDA**🧹📂:  
