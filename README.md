@@ -7,7 +7,7 @@
 This repository showcases my journey in Machine Learning through various projects. Each project demonstrates the application of different algorithms and techniques to solve real-world problems. The projects cover a wide range of topics, from supervised and unsupervised learning to deep learning.
 
 ## 📊 Projects Included
-**✍️ 00 - Learning ML**: This folder contains the basic notebooks I prepared while learning ML.
+**📚 00 - Learning ML**: This folder contains the basic notebooks I prepared while learning ML.
 
 **🍃 01 - CO2 Emission Project**: This project analyzes vehicle specifications and fuel consumption data to predict CO2 emissions using exploratory data analysis (EDA), simple linear regression, and multiple linear regression techniques.
 
@@ -16,6 +16,8 @@ This repository showcases my journey in Machine Learning through various project
 **🍇 03 - Raisin Classification Project**: This project focuses on classifying raisin types (Kecimen and Besni) using machine learning techniques. It explores classification models, feature scaling, and evaluation metrics to analyze and distinguish the two classes effectively.
 
 **💸 04 - Income Prediction Project**: This project focuses on predicting income levels (≤50K or >50K) using classification techniques such as Logistic Regression, K-Nearest Neighbors (KNN), and Support Vector Machines (SVM) to tackle imbalanced data and analyze features effectively.
+
+**✍️ 05 - Handwritten Digit Recognition Project**: This project explores the classification of handwritten digits using SVC, Decision Tree, and Random Forest algorithms, highlighting their comparative performance and accuracy.
 
 ## 🗂️ Structure
 
