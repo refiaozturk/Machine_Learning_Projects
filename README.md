@@ -19,6 +19,10 @@ This repository showcases my journey in Machine Learning through various project
 
 **✍️ 05 - Handwritten Digit Recognition Project**: This project explores the classification of handwritten digits using SVC, Decision Tree, and Random Forest algorithms, highlighting their comparative performance and accuracy.
 
+**🚢 06 - Titanic Survival Prediction Project**: This project analyzes the Titanic dataset to predict passenger survival rates using machine learning models such as XGBoost, GradientBoost, and AdaBoost. Feature engineering, data visualization, and evaluation metrics like F1-score, accuracy, ROC-AUC, and PRC are used to assess model performance.
+
+**🪖 07 - Soldier Race Classification Project**: This project aims to classify soldiers' ethnicities (White, Black, Hispanic) based on anthropometric measurements from the ANSUR II dataset. It explores supervised machine learning techniques, including Logistic Regression, SVC, Random Forest, AdaBoost, XGBoost, LightGBM, CatBoost, and Gradient Boosting. The project also addresses class imbalance using SMOTE and evaluates models for optimal performance.
+
 ## 🗂️ Structure
 
 1. **Data Preparation and EDA**🧹📂:  
