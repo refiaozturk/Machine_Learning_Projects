@@ -1,6 +1,6 @@
 # 🤖🧠 Machine Learning Projects
 <div style="text-align: center;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg" width="700" height="450"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg" width="980" height="500"/>
 </div>
 
 ## 📘 Overview
@@ -22,6 +22,8 @@ This repository showcases my journey in Machine Learning through various project
 **🚢 06 - Titanic Survival Prediction Project**: This project analyzes the Titanic dataset to predict passenger survival rates using machine learning models such as XGBoost, GradientBoost, and AdaBoost. Feature engineering, data visualization, and evaluation metrics like F1-score, accuracy, ROC-AUC, and PRC are used to assess model performance.
 
 **🪖 07 - Soldier Race Classification Project**: This project aims to classify soldiers' ethnicities (White, Black, Hispanic) based on anthropometric measurements from the ANSUR II dataset. It explores supervised machine learning techniques, including Logistic Regression, SVC, Random Forest, AdaBoost, XGBoost, LightGBM, CatBoost, and Gradient Boosting. The project also addresses class imbalance using SMOTE and evaluates models for optimal performance.
+
+**🛍️ 08 - Customer Segmentation Project**: This project focuses on segmenting online retail customers using RFM analysis and unsupervised clustering techniques. Customers are categorized into Bronze, Silver, Gold, and VIP segments based on their purchasing behavior. The insights gained from this analysis can help businesses optimize marketing strategies, improve customer retention, and enhance personalized promotions. 
 
 ## 🗂️ Structure
 
